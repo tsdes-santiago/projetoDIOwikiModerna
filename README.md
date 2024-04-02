@@ -25,5 +25,5 @@ Desenvolvimento de um site html5 com 4 páginas.
 * Index:
 <img src="index_page.png" />
 
-* Atendimento:
+* José de Alencar:
 <img src="alencar_page.png" />
